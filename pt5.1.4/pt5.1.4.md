@@ -7,10 +7,13 @@
 ```mysql
 CREATE TABLE Students 
 (
-stud_id INT(10) unsigned not null,
-
+	stud_id INT(10) unsigned not null,
+	stud_name VARCHAR(30) not null,
+    stud_phone CHAR(11) not null,
+    stud_date_of_birth DATE not null,
+    stud_city CHAR(30) not null,
     
-PRIMARY KEY (stud_id)
+	PRIMARY KEY (stud_id)
 
 
 );
