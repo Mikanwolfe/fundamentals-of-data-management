@@ -4,7 +4,16 @@
 
 **Pass Task 4.1.1**
 
-First Normal Form
+Third Normal Form
 
-![1565750695320](H:\repos\fundamentals-of-data-management\pt4.1.1\pt4.1.1 - proper.assets\1565750695320.png)
+![1565751409686](H:\repos\fundamentals-of-data-management\pt4.1.3\pt4.1.3 - proper.assets\1565751409686.png)
 
+# Table Staff
+
+![1565751418070](H:\repos\fundamentals-of-data-management\pt4.1.3\pt4.1.3 - proper.assets\1565751418070.png)
+
+# Table Subjects
+
+![1565751425780](H:\repos\fundamentals-of-data-management\pt4.1.3\pt4.1.3 - proper.assets\1565751425780.png)
+
+![1565751440820](H:\repos\fundamentals-of-data-management\pt4.1.3\pt4.1.3 - proper.assets\1565751440820.png)
