@@ -6,10 +6,12 @@
 
 Primary and Composite Keys
 
-| Relation       | Foreign Key | References |
-| -------------- | ----------- | ---------- |
-| Subj_Enrolment | stud_id     | Students   |
-| Subj_Enrolment | subj_code   | Subjects   |
-| Grade          | stud_id     | Students   |
-| Grade          | subj_code   | Subjects   |
+| Relation       | Foreign Key | References     |
+| -------------- | ----------- | -------------- |
+| Subj_Enrolment | stud_id     | Students       |
+| Subj_Enrolment | subj_code   | Subjects       |
+| Grade          | stud_id     | Students       |
+| Grade          | subj_code   | Subjects       |
+| Grade          | semester    | Subj_Enrolment |
+| Grade          | year        | Subj_Enrolment |
 
