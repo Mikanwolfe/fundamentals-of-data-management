@@ -34,3 +34,23 @@ ORDER BY CustLastName, CustFirstName, OrderDate DESC;
 
 #### d)
 
+Selecting only the latest orders requires SubQueries:
+
+```mysql
+use SalesOrdersExample;
+
+SELECT c.CustomerID, CustFirstName, CustLastName, OrderDate
+FROM Customers c JOIN Orders o
+ON o.CustomerID=c.CustomerID    
+where o.OrderDate = 
+	(
+		select MAX(o.OrderDate)
+        from orders o
+	)
+ORDER BY CustLastName, CustFirstName, OrderDate desc ;
+
+
+drop view CustomerOrdersOrdered;
+```
+
+![1569384239294](F:\repos\fundamentals-of-data-management\pt7.1.4\pt7.1.4.assets\1569384239294.png)
