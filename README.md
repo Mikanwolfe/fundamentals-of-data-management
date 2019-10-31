@@ -33,7 +33,7 @@ Research and report on an advanced database topic. the topic chosen was a compar
 
 #### A Note on this Repository
 
-Yes, this repository contains all the "answers" to OOP. No, I won't help nor respond to any requests for help. If you're studying at a University, check out all the resources available to you. If you're from Swin-U in particular, check out ATC620: the Programming Help Desk; make sure you go at odd times (think 4/5pm) for the best help.
+Yes, this repository contains all the "answers" to this unit. No, I won't help nor respond to any requests for help. If you're studying at a University, check out all the resources available to you. If you're from Swin-U in particular, check out ATC620: the Programming Help Desk; make sure you go at odd times (think 4/5pm) for the best help.
 
 A friendly reminder that plagiarism is a thing, even with programming. Feel free to have a look if you're stuck, but if you don't understand it, you're doing it wrong. I don't want to pull this repository simply because one person did something silly; I stand by the idea that all information should be readily accessible, though some more than others. 
 
