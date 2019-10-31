@@ -1,0 +1,11 @@
+set AUTOCOMMIT = 0;
+
+SHOW VARIABLES LIKE "secure_file_priv";
+
+LOAD DATA INFILE 'C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\ShipTypes.csv' 
+INTO TABLE ShipTypes
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+

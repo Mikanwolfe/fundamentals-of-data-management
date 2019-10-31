@@ -1,0 +1,21 @@
+shipTypeID,shipTypeDesc
+Battleship,BB
+Standard Aircraft Carrier,CV
+Destroyer,DD
+Light Cruiser,CL
+Fast Battleship,FBB
+Heavy Cruiser,CA
+Aviation Cruiser,CAV
+Torpedo Cruiser,CLT
+Seaplane Tender,AV
+Aircraft Carrying Submarine,SSV
+Submarine,SSV
+Aviation Battleship,BBV
+Light Carrier,CVL
+Destroyer Escort,DE
+Amphibious Assault Ship,LHA
+Fleet Oiler,AO
+Submarine Tender ,AS
+Repair Ship,AR
+Armored Carrier,CVB
+Training Cruiser,CLp

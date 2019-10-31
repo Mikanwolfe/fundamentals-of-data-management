@@ -1,0 +1,1 @@
+insert into `fleets` values (1, 1)
