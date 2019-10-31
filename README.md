@@ -23,11 +23,11 @@ Furthermore, for the distinction and high-distinction requirements:
 
 ### Distinction
 
-Design and implement a database with accompanying data. The database chosen was a basic [*Kantai Collection*](https://en.kancollewiki.net/Kancolle_Wiki) database containing ship information, nations, and equipment.  This can be found in the [d-task](https://github.com/Mikanwolfe/fundamentals-of-data-management/tree/master/d_task) folder.
+Design and implement a database with accompanying data. The database chosen was a basic [*Kantai Collection*](https://en.kancollewiki.net/Kancolle_Wiki) database containing ship information, nations, and equipment.  This can be found in the [d-task](https://github.com/Mikanwolfe/fundamentals-of-data-management/tree/master/d-task) folder.
 
 ### High Distinction
 
-Research and report on an advanced database topic. the topic chosen was a comparison of NoSQL to MySQL from the standpoint of existing issues within the SQL framework and how NoSQL combats those challenges. The report itself can be found in the [hd-task](https://github.com/Mikanwolfe/fundamentals-of-data-management/tree/master/hd_task) folder.
+Research and report on an advanced database topic. the topic chosen was a comparison of NoSQL to MySQL from the standpoint of existing issues within the SQL framework and how NoSQL combats those challenges. The report itself can be found in the [hd-task](https://github.com/Mikanwolfe/fundamentals-of-data-management/tree/master/hd-task) folder.
 
 ---
 
